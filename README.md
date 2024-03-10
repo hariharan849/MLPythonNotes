@@ -1,4 +1,4 @@
 # MLPythonNotes
 
 
-Machine learning python notes as per the resources I come across
+Machine learning python notes that I have gathered
